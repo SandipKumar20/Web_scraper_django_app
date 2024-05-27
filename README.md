@@ -1,0 +1,1 @@
+# A web scraping tool which collects all the links along with their names from a webpage with the aid of django, beautifulsoup and requests libraries.
